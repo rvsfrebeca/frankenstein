@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+jdbc:
+  url: jdbc:postgresql://database-frankeinstein.c7wozhwuf2s3.us-east-2.rds.amazonaws.com:5432/postgres
+  username: rvsfrebeca
+  password: 12345678
